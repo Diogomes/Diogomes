@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=Diogomes.Diogomes">
+<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=Diogomes/Diogomes">
 
 
 
