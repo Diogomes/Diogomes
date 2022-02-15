@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Liferay, As a Test Engineer
+- 🔭 I’m currently working on Liferay, As a Test Engineer <img align="left" alt="Quality Assurance" width="32" src="https://www.seekpng.com/png/detail/325-3257290_quality-assurance-png-photo-qa-testing.png" />
 - 🌱 I’m currently learning Java, TDD, Tests, HTML, JS, CSS SCSS and Python...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogomes)](https://github.com/Diogomes/github-readme-stats)
